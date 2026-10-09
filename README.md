@@ -1,14 +1,11 @@
-<div align="center">
-
 # Hi, I'm Jeksen 👋
+
 ### Full-Stack Software Engineer · AI Automation & Agentic Systems
 
-<p align="center">
-  Building high-performance web platforms, autonomous AI agents, and developer infrastructure.<br>
-  Based in <b>Medan, Indonesia 🇮🇩</b> · Open to remote & contract opportunities.
-</p>
+Building high-performance web platforms, autonomous AI agents, and developer infrastructure.  
+📍 Based in **Medan, Indonesia** · Open to remote & contract opportunities.
 
-<p align="center">
+<p>
   <a href="https://jeksen.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-jeksen.vercel.app-0d1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
@@ -40,15 +37,11 @@
   </tr>
 </table>
 
-<br>
-
 <!-- Live Animated Contribution Heatmap -->
 <img src="./contrib-heatmap.svg" width="860" alt="GitHub Contribution Calendar" />
 
 <br>
 <br>
-
-</div>
 
 ---
 
@@ -76,6 +69,4 @@
 
 ---
 
-<div align="center">
-  <sub>✨ Auto-refreshed daily via GitHub Actions · Designed & Crafted by Jeksen</sub>
-</div>
+<sub>✨ Auto-refreshed daily via GitHub Actions · Designed & Crafted by Jeksen</sub>
