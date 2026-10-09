@@ -2,7 +2,6 @@
 
 ### Full-Stack Software Engineer · AI Automation & Agentic Systems
 
-Building high-performance web platforms, autonomous AI agents, and developer infrastructure.  
 📍 Based in **Medan, Indonesia** · Open to remote & contract opportunities.
 
 <p>
@@ -57,15 +56,7 @@ Building high-performance web platforms, autonomous AI agents, and developer inf
   Designing intelligent automation pipelines, LLM tool-calling integrations, and autonomous engineering workflows.
 
 - 🌱 **Exploring Opportunities**  
-  Actively open to high-impact remote engineering roles and collaborative ventures.
-
----
-
-### 🛠️ Tech Stack & Skills
-
-- **Frontend:** Vue.js · Nuxt.js · React · Next.js · TypeScript · Tailwind CSS
-- **Backend & AI:** Node.js · Python · Model Context Protocol (MCP) · REST APIs
-- **Tools & DevOps:** Git · GitHub Actions · Vercel · Docker · Linux
+  Actively open to remote engineering roles and collaborative ventures.
 
 ---
 
