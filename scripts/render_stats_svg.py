@@ -100,7 +100,7 @@ parts = [
 for i, dot in enumerate(["#ff5f56", "#ffbd2e", "#27c93f"]):
     parts.append(f'<circle cx="{PAD + i*16}" cy="{TITLEBAR_H/2}" r="5" fill="{dot}"/>')
 parts.append(f'<text x="{W/2}" y="{TITLEBAR_H/2 + 4}" fill="{MUTED}" font-size="12" '
-             f'text-anchor="middle">limzen@github: ~$ ./stats.sh</text>')
+             f'text-anchor="middle">jeksen@dev: ~/stats</text>')
 
 # ---- stat tiles ----------------------------------------------------
 for i, (label, value, suffix, caption, accent) in enumerate(tiles):
