@@ -44,16 +44,16 @@
 
 ---
 
-### 💼 Current Focus & Roles
+### Current Focus & Roles
 
-- 🏢 **Frontend Developer** @ **Universitas Mikroskil**  
+- **Frontend Developer** @ **Universitas Mikroskil**  
   Developing intuitive and robust academic web platforms using **Vue.js**, **Nuxt**, and **Next.js**.
 
-- 🚀 **Founder** @ **ShadowPrice**  
+- **Founder** @ **ShadowPrice**  
   The pricing intelligence layer built for **Claude**, **Cursor**, and any **MCP-compatible AI Agent**.
 
-- 🤖 **AI & Agentic Workflows**  
+- **AI & Agentic Workflows**  
   Designing intelligent automation pipelines, LLM tool-calling integrations, and autonomous engineering workflows.
 
-- 🌱 **Exploring Opportunities**  
+- **Exploring Opportunities**  
   Actively open to remote engineering roles and collaborative ventures.
