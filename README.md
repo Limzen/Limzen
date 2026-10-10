@@ -4,9 +4,9 @@
 
 Based in **Medan, Indonesia** · Open to remote & contract opportunities.
 
-<a href="https://jeksen.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-jeksen.vercel.app-0d1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" width="240" height="28" /></a>&nbsp;&nbsp;┃&nbsp;&nbsp;<a href="mailto:jeksen453@gmail.com"><img src="https://img.shields.io/badge/Email-jeksen453%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" width="240" height="28" /></a>
+<a href="https://jeksen.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-jeksen.vercel.app-0d1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>&nbsp;&nbsp;┃&nbsp;&nbsp;<a href="mailto:jeksen453@gmail.com"><img src="https://img.shields.io/badge/Email-jeksen453%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <br>
-<a href="https://github.com/Limzen"><img src="https://img.shields.io/badge/GitHub-Limzen-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" width="240" height="28" /></a>&nbsp;&nbsp;┃&nbsp;&nbsp;<a href="https://github.com/Limzen/shadowprice-mcp"><img src="https://img.shields.io/badge/Project-ShadowPrice-6366F1?style=for-the-badge&logo=anthropic&logoColor=white" alt="ShadowPrice" width="240" height="28" /></a>
+<a href="https://github.com/Limzen"><img src="https://img.shields.io/badge/GitHub-Limzen-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;&nbsp;┃&nbsp;&nbsp;<a href="https://github.com/Limzen/shadowprice-mcp"><img src="https://img.shields.io/badge/Project-ShadowPrice-6366F1?style=for-the-badge&logo=anthropic&logoColor=white" alt="ShadowPrice" /></a>
 
 <br>
 
