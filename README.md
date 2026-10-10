@@ -1,6 +1,6 @@
 # Hi, I'm Jeksen
 
-### Full-Stack Software Engineer · AI Automation & Agentic Systems
+### Full-Stack Software Engineer · AI Automation & Agentic Systems 
 
 Based in **Medan, Indonesia** · Open to remote & contract opportunities.
 
