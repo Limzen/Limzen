@@ -57,7 +57,3 @@
 
 - 🌱 **Exploring Opportunities**  
   Actively open to remote engineering roles and collaborative ventures.
-
----
-
-<sub>✨ Auto-refreshed daily via GitHub Actions · Designed & Crafted by Jeksen</sub>
