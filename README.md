@@ -1,4 +1,4 @@
-# Hi, I'm Jeksen 👋
+# Hi, I'm Jeksen
 
 ### Full-Stack Software Engineer · AI Automation & Agentic Systems
 
