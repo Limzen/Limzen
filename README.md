@@ -2,7 +2,7 @@
 
 ### Full-Stack Software Engineer · AI Automation & Agentic Systems
 
-📍 Based in **Medan, Indonesia** · Open to remote & contract opportunities.
+Based in **Medan, Indonesia** · Open to remote & contract opportunities.
 
 <p>
   <a href="https://jeksen.vercel.app" target="_blank">
