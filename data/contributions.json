@@ -1,17 +1,17 @@
 {
   "username": "Limzen",
-  "generated_at": "2026-10-31T12:28:28Z",
+  "generated_at": "2026-11-01T13:24:03Z",
   "range": {
-    "start": "2025-10-26",
-    "end": "2026-10-31"
+    "start": "2025-11-02",
+    "end": "2026-11-01"
   },
-  "total_contributions": 5064,
-  "active_days": 326,
+  "total_contributions": 5020,
+  "active_days": 324,
   "avg_per_active_day": 15.5,
   "current_streak": {
-    "length": 27,
+    "length": 28,
     "start": "2026-10-04",
-    "end": "2026-10-30"
+    "end": "2026-10-31"
   },
   "longest_streak": {
     "length": 28,
@@ -23,10 +23,6 @@
     "count": 1041
   },
   "monthly": [
-    {
-      "month": "2025-10",
-      "total": 45
-    },
     {
       "month": "2025-11",
       "total": 208
@@ -73,45 +69,14 @@
     },
     {
       "month": "2026-10",
-      "total": 140
+      "total": 141
+    },
+    {
+      "month": "2026-11",
+      "total": 0
     }
   ],
   "days": [
-    {
-      "date": "2025-10-26",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-27",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-28",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-10-29",
-      "count": 19,
-      "level": 2
-    },
-    {
-      "date": "2025-10-30",
-      "count": 18,
-      "level": 2
-    },
-    {
-      "date": "2025-10-31",
-      "count": 8,
-      "level": 1
-    },
-    {
-      "date": "2025-11-01",
-      "count": 0,
-      "level": 0
-    },
     {
       "date": "2025-11-02",
       "count": 0,
@@ -1929,6 +1894,11 @@
     },
     {
       "date": "2026-10-31",
+      "count": 1,
+      "level": 1
+    },
+    {
+      "date": "2026-11-01",
       "count": 0,
       "level": 0
     }
